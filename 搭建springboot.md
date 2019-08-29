@@ -5,9 +5,7 @@
 ```yml
 server:
   port: 8082
-spring:
-  profiles:
-    active: dev2
+
 ---
 server:
   port: 8085
